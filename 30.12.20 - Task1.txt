@@ -1,0 +1,40 @@
+
+
+
+TASK TO DO (TIME - 2.50PM TO 3.10)
+Create an document having five functions for the following datatypes including Output
+str
+list
+set
+tuple
+dictionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+note: document name is "<studentid>-Assignment1.doc/pdf" 
